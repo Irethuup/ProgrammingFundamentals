@@ -15,7 +15,7 @@ public class ReverseArrayOfStrings_04 {
             input [i] = input[currentIndex];
             input[currentIndex] = currentElement;
         }
-        String finalResult = String.join[" ", input);
+        String finalResult = String.join(" ", input);
         System.out.println(finalResult);
     }
 }
