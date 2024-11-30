@@ -1,6 +1,7 @@
-package ObjectsAndClassesExercises_WO5;
+package ObjectsAndClassesExercises_WO5.OpinionPoll_03;
 
 public class Person {
+
     private String name;
     private int age;
 
